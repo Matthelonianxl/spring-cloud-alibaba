@@ -18,7 +18,7 @@
 
     <properties>
         <sentinel.version>1.6.1</sentinel.version>
-        <oss.version>3.1.0</oss.version>
+        <oss.version>3.5.0-async-a</oss.version>
         <seata.version>0.5.2</seata.version>
         <nacos.client.version>1.0.1</nacos.client.version>
         <nacos.config.version>0.8.0</nacos.config.version>
