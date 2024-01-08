@@ -87,7 +87,7 @@
 
         <!-- Apache Dubbo -->
         <dubbo.version>2.7.15</dubbo.version>
-        <curator.version>4.0.1</curator.version>
+        <curator.version>5.6.0</curator.version>
 
         <!-- Apache RocketMQ -->
         <rocketmq.version>4.9.2</rocketmq.version>
